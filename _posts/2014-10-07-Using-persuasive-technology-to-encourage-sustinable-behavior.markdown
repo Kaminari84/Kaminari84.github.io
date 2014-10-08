@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This is a new post"
+title:  "Using persuasive technology to encourage sustainable behavior"
 date:   2014-10-07 17:02:05
 categories: my test
 ---
